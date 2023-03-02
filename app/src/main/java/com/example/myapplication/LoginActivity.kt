@@ -16,6 +16,7 @@ class LoginActivity:AppCompatActivity() {
     var email= ""
     var savedPassword= ""
     var savedEmail= ""
+    val myEmail=""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
